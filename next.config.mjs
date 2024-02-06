@@ -11,7 +11,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output:'export',
-    basePath: "/app",
+    basePath: "/AngelDroid",
     reactStrictMode:true,
     images: {
         unoptimized: true
