@@ -11,6 +11,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output:'export',
+    basePath: "/app",
+    reactStrictMode:true,
     images: {
         unoptimized: true
     }
