@@ -8,7 +8,7 @@ const projectsData = [
         id: 1,
         title: "KetNote",
         description: "Project 1 description",
-        image: "/AngelDroid/images/Projects/image1.jpg",
+        image: "/AngelDroid/images/Projects/logo.png",
         gitUrl: "/",
         previewUrl: "/",
         tag: ["All", "Android"]
