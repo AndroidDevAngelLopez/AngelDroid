@@ -6,40 +6,40 @@ import ProjectTag from "./ProjectTag"
 const projectsData = [
     {
         id: 1,
-        title: "React Portfolio website",
+        title: "KetNote",
         description: "Project 1 description",
-        image: "/images/projects/image1.jpg",
-        gitUrl: "/",
-        previewUrl: "/",
-        tag: ["All", "Spring"]
-    },
-    {
-        id: 2,
-        title: "React Portfolio website",
-        description: "Project 1 description",
-        image: "/images/projects/image2.jpg",
+        image: "/AngelDroid/images/projects/image1.jpg",
         gitUrl: "/",
         previewUrl: "/",
         tag: ["All", "Android"]
     },
-    {
-        id: 3,
-        title: "React Portfolio website",
-        description: "Project 1 description",
-        image: "/images/projects/image3.jpg",
-        gitUrl: "/",
-        previewUrl: "/",
-        tag: ["All", "Spring"]
-    },
-    {
-        id: 4,
-        title: "React Portfolio website",
-        description: "Project 1 description",
-        image: "/images/projects/image4.jpg",
-        gitUrl: "/",
-        previewUrl: "/",
-        tag: ["All", "Deep Learning"]
-    }
+    // {
+    //     id: 2,
+    //     title: "React Portfolio website",
+    //     description: "Project 1 description",
+    //     image: "/images/projects/image2.jpg",
+    //     gitUrl: "/",
+    //     previewUrl: "/",
+    //     tag: ["All", "Android"]
+    // },
+    // {
+    //     id: 3,
+    //     title: "React Portfolio website",
+    //     description: "Project 1 description",
+    //     image: "/images/projects/image3.jpg",
+    //     gitUrl: "/",
+    //     previewUrl: "/",
+    //     tag: ["All", "Spring"]
+    // },
+    // {
+    //     id: 4,
+    //     title: "React Portfolio website",
+    //     description: "Project 1 description",
+    //     image: "/images/projects/image4.jpg",
+    //     gitUrl: "/",
+    //     previewUrl: "/",
+    //     tag: ["All", "Deep Learning"]
+    // }
 ]
 
 const ProjectSection = () => {
