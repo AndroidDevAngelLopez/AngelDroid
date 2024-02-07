@@ -75,7 +75,7 @@ const AboutSection = () => {
                     >
                     <div className="rounded-full bg-[#181818] w-[150px] h-[150px] lg:w-[300px] lg:h-[300px] relative">
                         <Image
-                            src="/AngelDroid/images/spring.svg"
+                            src="/AngelDroid/spring.svg"
                             alt="hero image"
                             className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             width={100}
@@ -91,7 +91,7 @@ const AboutSection = () => {
                 >
                     <div className="rounded-full bg-[#181818] w-[150px] h-[150px] lg:w-[300px] lg:h-[300px] relative">
                         <Image
-                            src="/AngelDroid/images/pytorch.svg"
+                            src="/AngelDroid/pytorch.svg"
                             alt="hero image"
                             className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             width={100}
