@@ -45,7 +45,7 @@ const EmailSection = () => {
                
                     <ul className="list-disc pl-2 text-[$ADB7BE] mb-4 max-w-md">
                         <li> If you are interested, feel free to contact me on LinkedIn or send me a message by email.</li>
-                        <li>You can stop by to check out my completed projects on GitHub or check out my problem solving skills on my LeetCode.</li>
+                        <li>You can check out my completed projects on GitHub or check out my problem solving skills on my LeetCode.</li>
                         <li>I am willing to work anywhere in the city in person and anywhere in the world remotely.</li>
                     </ul>
                 <div className="socials flex flex-row gap-2">

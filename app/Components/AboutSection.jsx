@@ -47,7 +47,7 @@ const AboutSection = () => {
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                 <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
                 <p className="text-base lg:text-lg">
-                    I have more than 3 years of experience working on personal Android projects, I like to ensure the
+                    I have more than 3 years of experience working on personal projects, I like to ensure the
                     quality, value and scalability of the system.
                 </p>
                 <div className="flex flex-row justify-start mt-8">

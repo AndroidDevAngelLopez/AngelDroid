@@ -6,7 +6,9 @@ import ProjectTag from "./ProjectTag"
 const projectsData = [{
     id: 1,
     title: "KetNote",
-    description: "With KetNote you can create your notes and stories(this is a note with only title and image) and share with Instagram, now includes Gemini support" + "that implements generative AI and can generate titles or descriptions for your notes or stories.",
+    description: "With KetNote you can create your notes and stories " +
+        "(this is a note with only title and image) and share with Instagram, now includes Gemini support"
+        + " that implements generative AI and can generate titles or descriptions for your notes or stories.",
     image: "/AngelDroid/images/Projects/ketnote.png",
     gitUrl: "https://github.com/AndroidDevAngelLopez/KetNote",
     previewUrl: "/",
